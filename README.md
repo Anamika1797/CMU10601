@@ -1,4 +1,4 @@
-# CMU10601
+# Introduction to Machine Learning
 This folder contains the coding questions solved for the CMU course 10601- Introduction to Machine Learning. 
 It contains code for
 1. Decison Stump
